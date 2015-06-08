@@ -59,6 +59,7 @@ namespace BlokSites
                 {
                     blockSiteAddToList(line,open.SafeFileName);
                 }
+                file.Close();
             }
         }
 
